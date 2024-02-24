@@ -1,6 +1,4 @@
 # WebX Works #
-
-![WebX Works](webX logo.jpeg)
 ---
 Hello everyone, **WebX Works** is a startup company that helps individuals and business people with wide range of services including ***Web design***, ***Logo designing*** , *webpage templates* and ***Figma templates***.
 
