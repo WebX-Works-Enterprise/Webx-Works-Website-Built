@@ -1,6 +1,6 @@
 # WebX Works #
 
-![WebX Works]([https://github.com/B-a-b-u/Startup_website/blob/main/startup-website-template/img/temp_logo.png](https://github.com/kishorkumar005/Logo-Designs/blob/51e3eec44316ded5a6f0852ac9b1763d33b271e4/logo1.png?raw=true))
+![WebX Works](webX logo.jpeg)
 ---
 Hello everyone, **WebX Works** is a startup company that helps individuals and business people with wide range of services including ***Web design***, ***Logo designing*** , *webpage templates* and ***Figma templates***.
 
