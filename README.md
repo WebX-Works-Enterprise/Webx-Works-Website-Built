@@ -10,8 +10,6 @@ Hello everyone, **WebX Works** is a startup company that helps individuals and b
 
    - Web Designing
    - Logo Designing
-   - Webpage templates
-   - Figma templates
-   - Machine Learning Projects
-   - Website using Django
+   - Machine Learning and LLM Projects
+   - Web Development
    - Cyber Security Services
